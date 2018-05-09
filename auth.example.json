@@ -1,0 +1,9 @@
+{
+  "token": "BOT TOKEN HERE",
+  "fortnite": {
+    "email": "FORTNITE ACCOUNT EMAIL",
+    "password": "FORTNITE ACCOUNT PASSWORD",
+    "launcher_token": "CLIENT LAUNCHER TOKEN",
+    "client_token": "FORTNITE CLIENT TOKEN"
+  }
+}
