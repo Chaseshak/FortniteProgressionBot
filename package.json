@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2",
+    "fortnite-api": "^2.11.0",
     "generate-gitignore": "^0.2.6"
   }
 }
