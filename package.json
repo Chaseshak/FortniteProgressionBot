@@ -2,7 +2,7 @@
   "name": "Fortnite Progression Bot",
   "version": "1.0.0",
   "description": "Keep track of your fortnite stats over time and see how you improve!",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
